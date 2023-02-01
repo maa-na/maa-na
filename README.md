@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maa-na&show_icons=true&theme=radical&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maa-na&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maa-na&show_icons=true&theme=radical&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maa-na&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[AWS SAA](https://www.credly.com/badges/81a7464d-6eb9-4b1e-ac98-e3de41123e99/public_url) -->
 <!--
 **maa-na/maa-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
